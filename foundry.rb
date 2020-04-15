@@ -8,5 +8,6 @@ class Foundry < Formula
   
   def install
     bin.install "foundry-macos-0.1.0"
+    mv bin/"foundry-macos-0.1.0" bin/"foundry"
   end
 end
