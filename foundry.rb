@@ -1,8 +1,8 @@
 class Foundry < Formula
   desc "A command-line tool that lets you build Firebase Cloud Functions notably faster, with less configuration, and with easy access to your production data"
   homepage "https://github.com/FoundryApp/foundry-cli"
-  url "https://github.com/FoundryApp/foundry-cli/releases/download/v0.2.2/foundry-macos-x86_64"
-  sha256 "86fda6ef5d00ba3c0962021c94c31c66a90705de3295becec078adf87bdac732"
+  url "https://github.com/FoundryApp/foundry-cli/releases/download/v0.2.3/foundry-macos-x86_64"
+  sha256 "8ed780b979e7791fb60c729b9b663599d38edd2b4081b5a0d9da424426f4feb9"
 
   bottle :unneeded
   
